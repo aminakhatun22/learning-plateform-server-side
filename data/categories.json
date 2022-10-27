@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "courseName": "Javascript",
+        "description": "JavaScript is an interpreted client-side scripting language that allows a web designer the ability to insert code into their web page. JavaScript is commonly placed into an HTML or ASP file and runs directly from the web page and today is the most popular programming language. JavaScript can perform more advanced tasks, such as printing the time and date, creating a calendar, or other tasks that are not possible in HTML.",
+        "courseThumb": "https://i.ibb.co/RpxpBcT/image.png",
+        "duration": 2
+    },
+    {
+        "id": 2,
+        "courseName": "React",
+        "description": "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies.",
+        "courseThumb": "https://i.ibb.co/1JRMVPH/react.png",
+        "duration": 3
+    },
+    {
+        "id": 3,
+        "courseName": "Firebase",
+        "description": "Firebase is a set of hosting services for any type of application. It offers NoSQL and real-time hosting of databases, content, social authentication, and notifications, or services, such as a real-time communication server",
+        "courseThumb": "https://i.ibb.co/M190tkB/st-small-507x507-pad-600x600-f8f8f8-u1.jpg",
+        "duration": 1
+    },
+    {
+        "id": 4,
+        "courseName": "NodeJs",
+        "description": "Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on a JavaScript Engine and executes JavaScript code outside a web browser, which was designed to build scalable network applications.",
+        "courseThumb": "https://i.ibb.co/J2s67vK/l-Ny35u-4-HIHu4-Wqj0-WIENt-N0-Hme-Zu-Ex4-V8-Uwd-Mw0wxc-RKv-Ybskm-PEII05-HWx-K5n-I0g.png",
+        "duration": 1
+    },
+    {
+        "id": 5,
+        "courseName": "ExpressJs",
+        "description": "Express.js, or simply Express, is a back end web application framework for building RESTful APIs with Node.js, released as free and open-source software under the MIT License. It is designed for building web applications and APIs. It has been called the de facto standard server framework for Node.js",
+        "courseThumb": "https://i.ibb.co/XpvW06m/images-q-tbn-ANd9-Gc-RUbjp-HNi-Ac2-Mv-MN1-SAm7-Ns5-N-M-h2sz-TYEPec-G-i-KD0-QXp5-Ion52k-G0-FBs-F-6-Q6.png",
+        "duration": 1
+    },
+    {
+        "id": 6,
+        "courseName": "MongoDB",
+        "description": "MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with optional schemas. MongoDB is developed by MongoDB Inc. and licensed under the Server Side Public License which is deemed non-free by several distributions.",
+        "courseThumb": "https://i.ibb.co/QPVMszS/images-q-tbn-ANd9-Gc-Tw-BFGt-SCyj2-EYj-DWXg-Sgj-P9l-PNU3p-T-Vhw5-Wa-cc6mc9z-A-Hc77w-E3-Wasu-Ek-JAh-n.png",
+        "duration": 1
+    }
+]
